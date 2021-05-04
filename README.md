@@ -1,0 +1,2 @@
+# operatorTERAND
+Created with CodeSandbox
